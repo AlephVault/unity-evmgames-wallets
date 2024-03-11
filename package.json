@@ -1,0 +1,17 @@
+{
+  "name": "com.alephvault.unity.evmgames.wallets",
+  "version": "0.0.1",
+  "displayName": "Aleph Vault - Unity - EVMGames.Wallets",
+  "description": "An implementation of local wallets bases on Nethereum and withpaper.",
+  "unity": "2020.3",
+  "dependencies": {
+    "com.alephvault.unity.support": "0.0.2",
+    "com.unity.nuget.newtonsoft-json": "2.0.0",
+    "com.nethereum.unity": "4.19.2"
+  },
+  "author": {
+    "name": "Aleph Vault",
+    "email": "info@alephvault.com",
+    "url": "http://www.alephvault.com"
+  }
+}
