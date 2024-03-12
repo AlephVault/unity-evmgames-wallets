@@ -8,7 +8,7 @@ To install this package you need to open the package manager in your project and
      - "name": "AlephVault"
      - "url": "https://unity.packages.alephvault.com"
      - "scopes": ["com.alephvault"]
-  2. Look for this package: `com.alephvault.unity.evmgames`.
+  2. Look for this package: `com.alephvault.unity.evmgames.wallets`.
   3. Install it.
 
 This also requires installing com.nethereum.unity 4.19.2. Install [this repository](https://github.com/Nethereum/Nethereum.Unity/tree/4.19.2) in project-level first.
